@@ -38,7 +38,20 @@
 - Web Development(MERN)in Programming Hero
 <hr>
 
-<h3 align="left">📚Projects</h3>  
+<h3 align="left">📚Projects</h3> 
+
+<h4 align="left"> Training Management System(BJIT): </h4>
+
+- Training Management System(BJIT):
+- Admin, trainer Trainee can update their Profile Information and pictures.  
+- Trainer can create assignments and see all the assignments and download submitted 
+assignments also evaluated. Trainers can post and notice to the classroom for a specific
+batch.
+- Trainee can submit assignments in any file type and comment on the specific post in the 
+classroom.
+  
+Server-Side Code Link : https://github.com/jubayer456/TMS_Final_Project_BJIT </br>
+
 <h4 align="left">Hammer manufacture Ltd:</h4>
   
 - User cannot order any tools without login with the social media login system or registration 
@@ -51,15 +64,6 @@ Server-Side Code Link : https://github.com/jubayer456/hammer-manufacture-server 
 Live Site Link : https://hammer-manufacture.web.app/  </br>
   
 
-<h4 align="left">Aesthetic-bike-mart: </h4>
-
-- user can enter the private route through Login and registration.  
-- user can add items, delete item decreasing, decreasing.  
-- maximum 6 inventory shows in the home.  
-  
-Client-Side Code Link : https://github.com/jubayer456/aesthetic-bike-mart-client  </br>
-Server-Side Code Link : https://github.com/jubayer456/aesthetic-bike-mart-server </br>
-Live Site Link : https://bike-mart-c5ea6.web.app/  </br>
 
 <hr>
 
