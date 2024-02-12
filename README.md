@@ -1,13 +1,13 @@
  <img width="100%" height="200" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="arup" /> 
 <h1 align="left">Hi 👋, I'm Jubayer Bin Hedayet</h1>
 <hr>
-<h3 align="left">Software Engineer(Trainee) @ BJIT Academy</h3>
+<h3 align="left">Jr. Software Developer @ Giga tech Ltd</h3>
 
 <p> I'm a passionate java developer from Bangladesh As a Beginner through hard work and dedication, I intend to learn and build a career  where I can perform my tasks efficiently by making the best use of my analytical skills.</p>
 
 <h3 align = "left"> 👨🏽‍💻 What I'm working on </h3>
 
-<p>Currently, I am working on BJET Academy (a Bangladesh Japan IT Engineer Training Program) as a JAVA Trainee.</p>
+<p>Currently, I am working on Giga tech Ltd as a JAVA Developer</p>
 
 <h3 align = "left"> 🧠 What I'm currently learning </h3>
 
@@ -17,12 +17,12 @@
 
 <ul>
   <li>Topics:CP, DSA, OOP, Git/GitHub</li>
-  <li>Technologies: Reactjs, Nodejs , Java, Javascript, Mongodb, Firebase, Mysql</li>
+  <li>Technologies: Java, Spring Boot, Reactjs, Nodejs , Javascript, Mongodb, Mysql, Firebase</li>
   <li>How to reach me: talhajubayer678@gmail.com</li>
 </ul>
 
 <h3 align="left">💻Work Experience</h3>
-- Trainee Software Engineer, BJIT Academy, April 2023 - Present
+- Trainee Software Engineer, BJIT Academy, April 2023 - July 2023
 
   - Full-stack Web Developer (Java2 EE)
 <hr>
